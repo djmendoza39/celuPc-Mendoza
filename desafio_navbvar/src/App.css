@@ -36,3 +36,61 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+/* Estilos navbar */
+
+
+a{
+  text-decoration: none;
+  display: block;
+  padding: 1rem;
+  
+}
+
+li{
+  list-style: none;
+}
+
+.miHeader{
+
+  background-color: #F8F9FA;
+  -webkit-box-shadow: 0px 10px 13px -7px #000000, 50px 50px 21px 50px rgba(0,0,0,0); 
+box-shadow: 0px 10px 13px -7px #000000, 50px 50px 21px 50px rgba(0,0,0,0);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+}
+.miEstiloLogo{
+  color: #2fb357;
+  text-shadow: 2px 2px 2px #45B128;
+  font-size: 30px;
+  font-weight: 700;
+}
+.contenedor_menu{
+  width: 70%;
+  margin: 0 auto;
+  background-color: #F8F9FA;
+  display: flex;
+  justify-content: space-between;
+}
+
+ul{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.miEstiloMenu{
+  color: #56665b;
+  font-size: 20px;
+  
+}
+
+.miEstiloMenu:hover{
+  color: #2fb357;
+  transition: all 1s;
+  cursor: pointer;
+}

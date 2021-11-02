@@ -15,9 +15,10 @@ function NavBar(){
                     <nav className="miNavbar">
                         <ul>
                             <li><a className="miEstiloMenu" href="#">Inicio</a></li>
-                            <li><a className="miEstiloMenu" href="#">PC</a></li>
-                            <li><a className="miEstiloMenu" href="#">Reloj</a></li>
-                            <li><a className="miEstiloMenu" href="#">SmartPhone</a></li>
+                            <li><a className="miEstiloMenu" href="#">Productos</a></li>
+                            <li><a className="miEstiloMenu" href="#">Contactanos</a></li>
+                            <li><a className="miEstiloMenu" href="#">Carrito</a></li>
+                            <li><a className="miEstiloMenu" href="#">Login</a></li>
                         </ul>
                     </nav>
                 </div>

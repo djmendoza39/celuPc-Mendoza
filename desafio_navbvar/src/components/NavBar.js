@@ -11,7 +11,7 @@ function NavBar(){
 
                 <div className="contenedor_menu">
                     {/* <img className="mi_Estilo_imagen" src={logoSitio} alt="imagen principal logo" /> */}
-                    <a href="#" className="miEstiloLogo">MovilPc</a>
+                    <a href="#" className="miEstiloLogo">CeluPc</a>
                     <nav className="miNavbar">
                         <ul>
                             <li><a className="miEstiloMenu" href="#">Inicio</a></li>
